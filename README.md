@@ -1,3 +1,11 @@
+# This version is primarily intended for private use.
+
+#### Use at your own risk. 😉
+
+# 
+
+#
+
 # Community DCS-ExportScripts Library
 ---
 
