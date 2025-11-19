@@ -638,7 +638,7 @@ ExportScript.ConfigArguments =
 	-- CPT MECH
 	[651] = "%.1f",    -- PTR-DOWNLOCK-OVERRIDE (Downlock Override)
 	[716] = "%1d",     -- PNT-LNDGEAR (Landing Gear Lever)
-	[773] = "%1d",     -- PTR-FLAPS (Flap Setting)
+	[773] = "%.1f",     -- PTR-FLAPS (Flap Setting)
 	[654] = "%1d",     -- PTR-ANTI-SKID (Anti Skid)
 	-- Light System Control Panel
 	[655] = "%0.1f",   -- PTR-LIGHTS-LAND (Land Taxi Lights)
@@ -732,6 +732,9 @@ ExportScript.ConfigArguments =
 
 	-- HMCS
 	[550] = "%1d",     -- HMCS Switch (1,0,-1)
+
+	[551] = "%.1f",     -- ARC-210, master switch
+	[553] = "%.1f",     -- ARC-210, secondary switch
 }
 
 -----------------------------
